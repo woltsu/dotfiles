@@ -1,0 +1,16 @@
+[pull]
+    rebase = true
+[alias]
+    a = add
+    ac = !git add . && git commit -m 
+    cm = commit -m
+    co = checkout
+    cp = cherry-pick
+    d = diff
+    poh = push origin HEAD
+    sc = switch -c
+    sw = switch
+    s = status
+[init]
+    defaultBranch = main
+
