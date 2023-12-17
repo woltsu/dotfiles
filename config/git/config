@@ -8,6 +8,7 @@
     cp = cherry-pick
     d = diff
     poh = push origin HEAD
+    p = push
     sc = switch -c
     sw = switch
     s = status
