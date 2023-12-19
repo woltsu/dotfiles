@@ -7,7 +7,7 @@
     co = checkout
     cp = cherry-pick
     d = diff
-    poh = push origin HEAD
+    poh = push -u origin HEAD
     p = push
     sc = switch -c
     sw = switch
