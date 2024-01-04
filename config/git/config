@@ -12,6 +12,7 @@
     sc = switch -c
     sw = switch
     s = status
+    diff-p = diff -- . ':(exclude)package-lock*'
 [init]
     defaultBranch = main
 
